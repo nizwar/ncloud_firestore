@@ -1,0 +1,17 @@
+name: ncloud_firestore
+description: Penerapan cloud firestore sederhana
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  cloud_firestore: ^0.12.10+2
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true

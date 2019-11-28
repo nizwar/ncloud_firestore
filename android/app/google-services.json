@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054334222255",
+    "firebase_url": "https://ncloud-firestore.firebaseio.com",
+    "project_id": "ncloud-firestore",
+    "storage_bucket": "ncloud-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054334222255:android:176eb625240f2d54acf95a",
+        "android_client_info": {
+          "package_name": "id.nizwar.ncloud_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054334222255-spm5pfi7p5ml1a3kqpi84kn9i380jf0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPsNoiewsQHZXSmBicsb-GnJthXI0Kq4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054334222255-spm5pfi7p5ml1a3kqpi84kn9i380jf0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
